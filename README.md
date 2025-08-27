@@ -20,3 +20,6 @@ This is my **Day 4 project** from Phase One of learning Java basics.
 ---
 
 ## 📂 Project Structure
+Shape-Area-Calculator/
+├── ShapeAreaCalculator.java
+└── README.md
