@@ -7,7 +7,7 @@ This is my **Day 4 project** from Phase One of learning Java basics.
 
 ---
 
-## 🚀 Features
+##  Features
 - Calculate area of different shapes:
   - Circle
   - Rectangle
